@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.shaohanyun.top/sitemap.xml
