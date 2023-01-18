@@ -1,5 +1,5 @@
-baseURL: https://www.shaohanyun.top # 绑定的域名
-title: Shaohan's Blog
+baseURL: https://yang2656.dev # 绑定的域名
+title: yang2656's Blog
 paginate: 10    # 首页每页显示的文章数
 theme: PaperMod # 主题名称，和themes文件夹下的一致
 languageCode: zh-cn # en-us
@@ -93,7 +93,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "这是一个纯粹的博客......"
-    author: Shaohan Tian
+    author: yang2656
     # author: ["Me", "You"] # multiple authors
 
   
