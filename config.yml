@@ -120,15 +120,11 @@ params:
     
     socialIcons:
         - name: github
-          url: "https://github.com/tianshaohan"
-        # - name: twitter
-        #   url:  "img/twitter.png"
-        - name: bilibili
-          url: "https://space.bilibili.com/395280439"
-        - name: QQ
-          url: "img/qq.jpg"    
+          url: "https://github.com/y279336671"
+        - name: twitter
+          url:  "https://twitter.com/yang2656" 
         - name: email
-          url: "mailto:shaohan.tian@foxmail.com"
+          url: "mailto:y279336671@gmail.com"
         - name: RSS
           url: "index.xml"
         # - name: facebook
