@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shaohan&#39;s Blog</title>
-    <link>https://www.shaohanyun.top/tags/</link>
-    <description>Recent content in Tags on Shaohan&#39;s Blog</description>
+    <title>Tags on yang2656&#39;s Blog</title>
+    <link>https://yang2656.dev/tags/</link>
+    <description>Recent content in Tags on yang2656&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 12:28:00 +0800</lastBuildDate><atom:link href="https://www.shaohanyun.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 12:28:00 +0800</lastBuildDate><atom:link href="https://yang2656.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag 1</title>
-      <link>https://www.shaohanyun.top/tags/tag-1/</link>
+      <link>https://yang2656.dev/tags/tag-1/</link>
       <pubDate>Mon, 16 Jan 2023 12:28:00 +0800</pubDate>
       
-      <guid>https://www.shaohanyun.top/tags/tag-1/</guid>
+      <guid>https://yang2656.dev/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag 2</title>
-      <link>https://www.shaohanyun.top/tags/tag-2/</link>
+      <link>https://yang2656.dev/tags/tag-2/</link>
       <pubDate>Mon, 16 Jan 2023 12:28:00 +0800</pubDate>
       
-      <guid>https://www.shaohanyun.top/tags/tag-2/</guid>
+      <guid>https://yang2656.dev/tags/tag-2/</guid>
       <description></description>
     </item>
     

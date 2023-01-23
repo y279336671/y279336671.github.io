@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shaohan&#39;s Blog</title>
-    <link>https://www.shaohanyun.top/</link>
-    <description>Recent content on Shaohan&#39;s Blog</description>
+    <title>yang2656&#39;s Blog</title>
+    <link>https://yang2656.dev/</link>
+    <description>Recent content on yang2656&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 12:28:00 +0800</lastBuildDate><atom:link href="https://www.shaohanyun.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 12:28:00 +0800</lastBuildDate><atom:link href="https://yang2656.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.shaohanyun.top/about/</link>
+      <link>https://yang2656.dev/about/</link>
       <pubDate>Mon, 16 Jan 2023 12:28:00 +0800</pubDate>
       
-      <guid>https://www.shaohanyun.top/about/</guid>
+      <guid>https://yang2656.dev/about/</guid>
       <description></description>
     </item>
     
+    <item>
+      <title>⏱ 时间轴</title>
+      <link>https://yang2656.dev/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yang2656.dev/archives/</guid>
+      <description>archives</description>
+    </item>
     
+    <item>
+      <title>🔍 搜索</title>
+      <link>https://yang2656.dev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yang2656.dev/search/</guid>
+      <description>search</description>
+    </item>
     
   </channel>
 </rss>
